@@ -1,0 +1,10 @@
+npm create vite@latest
+escreve nome da pasta 
+React
+JavaScript(apenas)
+cd .\(nome da pasta)  
+npm i   (install)  
+npm run dev
+*abre nova aba *
+copia o http (sem ser com ctrl + c)
+
